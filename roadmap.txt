@@ -1,0 +1,15 @@
+get a list of cities (PLACES API)
+get the total distance for the travel (DISTANCE MATRIX API) (fazer uma chamada para cada par de origem/destino)
+  ex.:
+    cidades: nt, sjb, bq
+    1 chamada nt > sjb
+    1 chamada sjb > bq
+    assim vou saber a distancia/tempo entre nt e sjb e entre sjb e bq
+
+
+show the markers on the map (MAPS API)
+
+the user starts a journey, then select the origin point and the final destination (might have multiple destinations between),
+then he gets the information and then he starts the journey.
+
+once the journey is initiated, the user can add data as to how much he's traveled (KM) and then get updated as to how long he still has to go.

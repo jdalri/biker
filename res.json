@@ -1,0 +1,128 @@
+//origins: [ 'Nova Trento, Brasil', 'Brusque, Brasil', 'Blumenau, Brasil' ],
+//destinations: [ 'Brusque, Brasil', 'Blumenau, Brasil', 'Indaial, Brasil' ],
+
+{
+  "rows": [
+    {
+      "elements": [
+        {
+          "distance": {
+            "text": "27,7 km",
+            "value": 27695
+          },
+          "duration": {
+            "text": "1 hora 42 minutos",
+            "value": 6146
+          },
+          "status": "OK"
+        },
+        {
+          "distance": {
+            "text": "68,4 km",
+            "value": 68407
+          },
+          "duration": {
+            "text": "3 horas 45 minutos",
+            "value": 13523
+          },
+          "status": "OK"
+        },
+        {
+          "distance": {
+            "text": "91,4 km",
+            "value": 91352
+          },
+          "duration": {
+            "text": "4 horas 56 minutos",
+            "value": 17758
+          },
+          "status": "OK"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "distance": {
+            "text": "1 m",
+            "value": 0
+          },
+          "duration": {
+            "text": "1 min",
+            "value": 0
+          },
+          "status": "OK"
+        },
+        {
+          "distance": {
+            "text": "40,7 km",
+            "value": 40697
+          },
+          "duration": {
+            "text": "2 horas 3 minutos",
+            "value": 7408
+          },
+          "status": "OK"
+        },
+        {
+          "distance": {
+            "text": "63,6 km",
+            "value": 63642
+          },
+          "duration": {
+            "text": "3 horas 14 minutos",
+            "value": 11643
+          },
+          "status": "OK"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "distance": {
+            "text": "43,1 km",
+            "value": 43138
+          },
+          "duration": {
+            "text": "2 horas 14 minutos",
+            "value": 8030
+          },
+          "status": "OK"
+        },
+        {
+          "distance": {
+            "text": "1 m",
+            "value": 0
+          },
+          "duration": {
+            "text": "1 min",
+            "value": 0
+          },
+          "status": "OK"
+        },
+        {
+          "distance": {
+            "text": "23,2 km",
+            "value": 23234
+          },
+          "duration": {
+            "text": "1 hora 15 minutos",
+            "value": 4475
+          },
+          "status": "OK"
+        }
+      ]
+    }
+  ],
+  "originAddresses": [
+    "Nova Trento - SC, Brasil",
+    "Brusque, SC, Brasil",
+    "Blumenau, SC, Brasil"
+  ],
+  "destinationAddresses": [
+    "Brusque, SC, Brasil",
+    "Blumenau, SC, Brasil",
+    "Indaial, SC, Brasil"
+  ]
+}
